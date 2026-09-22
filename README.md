@@ -1,7 +1,7 @@
 # Imaginative.md
 
-[![GitHub stars](https://img.shields.io/github/stars/astrii1/Imaginative.md?style=social)](https://github.com/astrii1/Imaginative.md/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/astrii1/Imaginative.md?style=social)](https://github.com/astrii1/Imaginative.md/fork)
+[![GitHub stars](https://img.shields.io/github/stars/astrii1/Imaginative?style=social)](https://github.com/astrii1/Imaginative/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/astrii1/Imaginative?style=social)](https://github.com/astrii1/Imaginative/fork)
 
 ### A contextual frontend design skill for Claude Code
 
