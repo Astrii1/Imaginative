@@ -1,9 +1,9 @@
 # Imaginative.md
 
-### A contextual frontend design skill for Claude Code
-
 [![GitHub stars](https://img.shields.io/github/stars/astrii1/Imaginative.md?style=social)](https://github.com/astrii1/Imaginative.md/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/astrii1/Imaginative.md?style=social)](https://github.com/astrii1/Imaginative.md/fork)
+
+### A contextual frontend design skill for Claude Code
 
 Most frontend design tools have a strong default aesthetic. Usually that means polished SaaS: large typography, rounded cards, gradients, generous whitespace, dashboards and a familiar collection of UI patterns.
 
@@ -13,7 +13,7 @@ This skill is for everything else.
 
 ## What it does
 
-`Imaginative.md` helps Claude choose a visual language based on the thing it is actually building.
+Imaginative helps Claude choose a visual language based on the thing it is actually building.
 
 It considers:
 
@@ -114,6 +114,10 @@ Sometimes it means something strange.
 
 That's the point.
 
+## License
+
+MIT License.
+
 ---
 
-**Open source. Contributions and reference suggestions welcome.**
+**Built for Claude Code. Open source. Contributions and reference suggestions welcome.**
