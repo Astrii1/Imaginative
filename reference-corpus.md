@@ -1,6 +1,6 @@
 # Reference Corpus
 
-This corpus provides visual and contextual references for `WhateverYouCanPicture.md`.
+This corpus provides visual and contextual references for `Imaginative.md`.
 
 Don't try to acquire screenshots of all of them. For commercial sites, make the reference entry an annotated description + URL, and only include imagery you have a legitimate basis to redistribute. Your own/generated recreations can provide the visual examples.
 

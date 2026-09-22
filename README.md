@@ -1,8 +1,9 @@
-# WhateverYouCanPicture.md
+# Imaginative.md
 
 ### A contextual frontend design skill for Claude Code
 
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)](https://github.com/USERNAME/REPOSITORY)
+[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)](https://github.com/astrii1/Imaginative.md/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)](
 
 Most frontend design tools have a strong default aesthetic. Usually that means polished SaaS: large typography, rounded cards, gradients, generous whitespace, dashboards and a familiar collection of UI patterns.
 
@@ -12,7 +13,7 @@ This skill is for everything else.
 
 ## What it does
 
-`WhateverYouCanPicture.md` helps Claude choose a visual language based on the thing it is actually building.
+`Imaginative.md` helps Claude choose a visual language based on the thing it is actually building.
 
 It considers:
 

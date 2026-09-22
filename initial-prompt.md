@@ -1,6 +1,6 @@
 Create a production-quality Claude Code skill named:
 
-WhateverYouCanPicture.md
+Imaginative.md
 
 The skill is a universal contextual frontend-design skill.
 
