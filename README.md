@@ -2,8 +2,8 @@
 
 ### A contextual frontend design skill for Claude Code
 
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY?style=social)](https://github.com/astrii1/Imaginative.md/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY?style=social)](
+[![GitHub stars](https://img.shields.io/github/stars/astrii1/Imaginative.md?style=social)](https://github.com/astrii1/Imaginative.md/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/astrii1/Imaginative.md?style=social)](https://github.com/astrii1/Imaginative.md/fork)
 
 Most frontend design tools have a strong default aesthetic. Usually that means polished SaaS: large typography, rounded cards, gradients, generous whitespace, dashboards and a familiar collection of UI patterns.
 
