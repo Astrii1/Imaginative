@@ -1,0 +1,72 @@
+name: Legora
+url: https://legora.com
+
+genres:
+  - legal
+  - enterprise
+  - professional_services
+  - legal_ai
+
+visual_character:
+  era: contemporary
+  density: medium
+  formality: high
+  ornamentation: restrained
+  production_value: very_high
+
+signals:
+  - institutional
+  - cinematic
+  - professional
+  - premium
+  - editorial
+  - technological
+
+narrative:
+  - expertise
+  - authority
+  - ambition
+  - competence
+  - scale
+  - trust
+
+imagery:
+  - architecture
+  - professionals
+  - legal_materials
+  - cityscapes
+  - cinematic_video
+
+observations:
+  typography:
+    - large restrained headlines
+    - minimal typographic clutter
+    - confident editorial hierarchy
+
+  layout:
+    - large visual compositions
+    - generous negative space
+    - minimal navigation
+    - content-led rather than component-led
+
+  imagery:
+    - cinematic environmental footage
+    - architecture used to communicate scale and permanence
+    - professionals shown in authentic working environments
+    - legal objects used as contextual signals rather than decoration
+
+  interaction:
+    - restrained animation
+    - cinematic transitions
+    - minimal visible controls
+
+use_for:
+  - legal_ai
+  - enterprise_software
+  - professional_services
+  - high_trust_b2b
+
+avoid:
+  - literal_legal_cliches
+  - generic_saas_visuals
+  - playful_consumer_app_language
